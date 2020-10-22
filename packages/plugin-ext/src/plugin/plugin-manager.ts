@@ -407,7 +407,12 @@ export class PluginManagerExtImpl implements PluginManagerExt, PluginManager {
 
     activatePlugin(pluginId: string): PromiseLike<void> {
         console.error('!!!!!!!!!!!!!!!!! ACTIVATE ', pluginId);
-        return this.$activatePlugin(pluginId);
+        return this.dummyActivate();
+    }
+
+    private async dummyActivate(): Promise<void> {
+        console.error('!!! dummy ACTIVATE ');
+        return;
     }
 
     get onDidChange(): theia.Event<void> {
