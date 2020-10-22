@@ -9,6 +9,7 @@
 
   [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/eclipse-theia/theia)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-curved)](https://github.com/eclipse-theia/theia/labels/help%20wanted)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Ftheia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Ftheia?ref=badge_shield)
   [![Discourse status](https://img.shields.io/discourse/status?label=Chat&server=https%3A%2F%2Fcommunity.theia-ide.org%2F)](https://community.theia-ide.org/)
   [![Build Status](https://travis-ci.com/eclipse-theia/theia.svg?branch=master)](https://travis-ci.com/eclipse-theia/theia)
   [![Publish VS Code Built-in Extensions](https://github.com/theia-ide/vscode-builtin-extensions/workflows/publish-vscode-built-in-extensions/badge.svg)](https://github.com/theia-ide/vscode-builtin-extensions/actions)
@@ -91,7 +92,9 @@ Read below how to engage with Theia community:
 - [一 (Secondary) GNU General Public License, version 2 with the GNU Classpath Exception](LICENSE)
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Ftheia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Ftheia?ref=badge_large)
+
 ## Trademark
 "Theia" is a trademark of the Eclipse Foundation
 https://www.eclipse.org/theia
-
